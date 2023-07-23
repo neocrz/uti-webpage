@@ -1,8 +1,8 @@
 .introducao {
-    padding-top: 100px;
     grid-template-columns: 2fr 3fr;
     align-items: center;
     font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+    padding: 72px 20px;
 }
 
 
@@ -25,7 +25,7 @@
 }
 
 .introducao h2 strong {
-    color: #D6A700;
+    color: #f0ce39;
     font-weight: bold;
 }
 
@@ -83,8 +83,4 @@
     .introducao img {
         display: none;
     }
-}
-
-@media (max-width: 450px) {
-    
 }
